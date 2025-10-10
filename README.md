@@ -1,6 +1,6 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
-## Name: A.LAHARI
-## REG NO: 212223230111
+## Name: NIKSHITHA S
+## REG NO: 212224040220
 ## Aim:
 To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: 
